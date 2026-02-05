@@ -73,6 +73,7 @@ fn main() {
 
 
 #OUTPUT
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e9a9808-76a4-411d-ab5c-87c9f04fbdf7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/31d33a36-c515-4772-b5f5-c2bf1ad56a96" />
+
 
 
